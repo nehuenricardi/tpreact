@@ -1,0 +1,11 @@
+[
+  { "numero": 1, "pregunta": "¿Qué tiene ojos pero no puede ver?", "respuesta": "La aguja" },
+  { "numero": 2, "pregunta": "Larga y flaca, cuello estirado, de lejos veo, de cerca no puedo.", "respuesta": "La jirafa" },
+  { "numero": 3, "pregunta": "Vuelo sin alas, lloro sin ojos. ¿Quién soy?", "respuesta": "La nube" },
+  { "numero": 4, "pregunta": "Tengo dientes y no muerdo, tengo agua y no la bebo.", "respuesta": "El peine" },
+  { "numero": 5, "pregunta": "Sin ser árbol tengo hojas, sin ser bestia rujo, y sin ser cuchillo corto.", "respuesta": "El libro" },
+  { "numero": 6, "pregunta": "Anda y anda, pero no avanza. ¿Qué es?", "respuesta": "El reloj" },
+  { "numero": 7, "pregunta": "Si te digo que te la diga, te la digo; si no te digo que te la diga, no te la digo.", "respuesta": "La mentira" },
+  { "numero": 8, "pregunta": "¿Qué cosa es que cuanto más grande menos se ve?", "respuesta": "La oscuridad" },
+  { "numero": 9, "pregunta": "¿Quién puede correr sin piernas?", "respuesta": "El agua" }
+]  

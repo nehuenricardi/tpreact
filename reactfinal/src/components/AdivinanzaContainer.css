@@ -1,0 +1,25 @@
+.adivinanza-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  margin-top: 150px;
+}
+
+.adivinanza {
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  color: #000000;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.titulo-adivinanzas {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: -100px;
+  color: #000000;
+}
